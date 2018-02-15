@@ -1,0 +1,21 @@
+[?2004h[?1049h[?1h=[?2004h[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"~/Desktop/lonelyTwitter/.git/COMMIT_EDITMSG" 19L, 598C[2;1H# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Marissa Snihur <marissasnihur@Marissas-MacBook-Pro.local>
+#
+# On branch lab6-start
+# Your branch is up-to-date with 'origin/lab6-start'.
+#
+# Changes to be committed:
+#[7Cmodified:   app/app.iml
+#[7Cnew file:   app/src/androidTest/java/ca/ualberta/cs/lonelytwitter/TweetLL[13;1HistTest.java
+#[7Cnew file:   app/src/main/java/ca/ualberta/cs/lonelytwitter/TweetList.javv[15;1Ha
+#[7Cmodified:   build.gradle
+#[7Cmodified:   lonelyTwitter.iml
+#
+# Untracked files:
+#[7CUpdated
+#
+[94m~                                                                               [23;1H~                                                                               [1;1H[?12l[?25h
+[24;1H
+[m[?2004l[?1l>[?1049l[?2004l
