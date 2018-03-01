@@ -22,9 +22,9 @@ public class TweetList {
         if(tweets.equals(tweet)){
             return true;
         }
-        //return tweets.contains(tweet);
-    }
-    public Tweet getTweet(int index){
+        return tweets.contains(tweet);}
+
+    /*public Tweet getTweet(int index){
         return tweets.get(index);
     }
     public int getTweets(){
@@ -34,7 +34,7 @@ public class TweetList {
                 return 0;
             }
         });
-    }
+    }*/
     public void delete(Tweet tweet){
         tweets.remove(tweet);
     }
